@@ -196,12 +196,9 @@
 <entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="427" pc="268440399" symbol="onEnterSleep"/>
 <entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="428" pc="268440410" symbol="onEnterSleep"/>
 <entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="431" pc="268440431" symbol="onEnterSleep"/>
-<entry filename="Rez" id="51" lineNum="23" pc="268440448" symbol="WatchFace"/>
-<entry filename="Rez" id="51" lineNum="27" pc="268440460" symbol="WatchFace"/>
-<entry filename="Rez" id="51" lineNum="28" pc="268440631" symbol="WatchFace"/>
-<entry filename="Rez" id="51" lineNum="29" pc="268440664" symbol="WatchFace"/>
-<entry filename="Rez" id="51" lineNum="30" pc="268440716" symbol="WatchFace"/>
-<entry filename="Rez" id="51" lineNum="33" pc="268440762" symbol="WatchFace"/>
+<entry filename="Rez" id="50" lineNum="18" pc="268440448" symbol="WatchFace"/>
+<entry filename="Rez" id="50" lineNum="20" pc="268440460" symbol="WatchFace"/>
+<entry filename="Rez" id="50" lineNum="22" pc="268440623" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
@@ -268,7 +265,7 @@
 <entry field="true" id="8389338" symbol="minute"/>
 <entry field="true" id="15" symbol="SCREEN_SHAPE_SEMICIRC"/>
 <entry field="true" id="8388938" symbol="month"/>
-<entry id="21" module="true" symbol="Layouts"/>
+<entry id="20" module="true" symbol="Layouts"/>
 <entry field="true" id="25" symbol="timer_timeout"/>
 <entry field="true" id="28" symbol="month_str"/>
 <entry id="8389125" method="true" symbol="onHide"/>
@@ -278,7 +275,7 @@
 <entry field="true" id="27" symbol="current_frame"/>
 <entry field="true" id="29" symbol="vert_layout"/>
 <entry field="true" id="23" symbol="hands_31"/>
-<entry id="20" module="true" symbol="Menus"/>
+<entry id="21" module="true" symbol="Menus"/>
 <entry field="true" id="35" symbol="canvas_semicirc"/>
 <entry id="11" object="true" symbol="MickeyFaceView"/>
 <entry field="true" id="34" symbol="canvas_circ"/>
@@ -345,11 +342,26 @@
 <entry endPc="268440156" name="font" stackId="2" startPc="268439941"/>
 <entry endPc="268440156" name="packed_array" stackId="1" startPc="268439941"/>
 <entry endPc="268440156" name="yoff" stackId="5" startPc="268439941"/>
-<entry endPc="268440779" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268440460"/>
-<entry endPc="268440779" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268440460"/>
-<entry endPc="268440780" name="dc" stackId="1" startPc="268440448"/>
+<entry endPc="268440640" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268440460"/>
+<entry endPc="268440641" name="dc" stackId="1" startPc="268440448"/>
 </localVars>
 <annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="222" parentId="globals" symbolId="MickeyFaceView" type="class"/>
+<dataEntry offset="317" parentId="globals" symbolId="MickeyFaceApp" type="class"/>
+<dataEntry offset="388" parentId="globals" symbolId="BasicApp" type="class"/>
+<dataEntry offset="467" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="546" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="585" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="616" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="741" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="780" parentId="globals" symbolId="BasicView" type="class"/>
+<dataEntry offset="1163" parentId="globals" symbolId="TestMickeyFaceApp" type="class"/>
+<dataEntry offset="1234" parentId="globals" symbolId="TestMickeyFaceView" type="class"/>
+</dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" name="initialize" parent="BasicApp">
 <documentation/>
@@ -484,23 +496,7 @@
 </functionEntry>
 <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
 <param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+<documentation/>
 </functionEntry>
 </functions>
-<dataEntryOffsetMappings>
-<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="270" parentId="globals" symbolId="MickeyFaceView" type="class"/>
-<dataEntry offset="365" parentId="globals" symbolId="MickeyFaceApp" type="class"/>
-<dataEntry offset="436" parentId="globals" symbolId="BasicApp" type="class"/>
-<dataEntry offset="515" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="594" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="633" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="664" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="719" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="750" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="789" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="828" parentId="globals" symbolId="BasicView" type="class"/>
-<dataEntry offset="1211" parentId="globals" symbolId="TestMickeyFaceApp" type="class"/>
-<dataEntry offset="1282" parentId="globals" symbolId="TestMickeyFaceView" type="class"/>
-</dataEntryOffsetMappings>
 </debugInfo>
