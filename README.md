@@ -1,3 +1,13 @@
+## Upload and Update 2/28/2020
+
+Hi, this is my personal fork of @sunpazed/garmin-mickey.
+
+About a year and half ago, I DL'd the original source, found it didn't work with my Vivoactive 3 Music and cleaned it up/modified it to so it'd function.  I uploaded it today with an updated manifest.xml for Vivoactive 3 and Vivoactive 3 Music LTE.
+
+The source has not been changed since 2018, so the alignment for all watches besides **Vivoactive 3/3 Music/3 Music LTE** will be off.
+
+---
+
 # Mickey
 
 An Mickey watchface for Garmin's wearable lineup.
