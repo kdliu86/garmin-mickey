@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="4" lineNum="13" pc="268435483" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="4" lineNum="14" pc="268435487" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="5" lineNum="18" pc="268435504" symbol="onStart"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="6" lineNum="22" pc="268435509" symbol="onStop"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="7" lineNum="26" pc="268435514" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicApp.mc" id="7" lineNum="27" pc="268435518" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="9" lineNum="8" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="9" lineNum="9" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="10" lineNum="13" pc="268435579" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="10" lineNum="14" pc="268435583" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="11" lineNum="20" pc="268435621" symbol="onShow"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="24" pc="268435626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="26" pc="268435630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="27" pc="268435647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="28" pc="268435721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="29" pc="268435745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="12" lineNum="32" pc="268435759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="13" lineNum="38" pc="268435780" symbol="onHide"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="14" lineNum="42" pc="268435785" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceView.mc" id="15" lineNum="46" pc="268435790" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="17" lineNum="8" pc="268435795" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="17" lineNum="9" pc="268435799" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="18" lineNum="13" pc="268435818" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="18" lineNum="14" pc="268435822" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="19" lineNum="20" pc="268435860" symbol="onShow"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="24" pc="268435865" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="26" pc="268435869" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="27" pc="268435886" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="28" pc="268435960" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="29" pc="268435984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="20" lineNum="32" pc="268435998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="21" lineNum="38" pc="268436019" symbol="onHide"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="22" lineNum="42" pc="268436024" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceView.mc" id="23" lineNum="46" pc="268436029" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="25" lineNum="5" pc="268436034" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="25" lineNum="6" pc="268436038" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="26" lineNum="10" pc="268436057" symbol="onStart"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="27" lineNum="14" pc="268436062" symbol="onStop"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="28" lineNum="18" pc="268436067" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\TestMickeyFaceApp.mc" id="28" lineNum="19" pc="268436071" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="30" lineNum="5" pc="268436109" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="30" lineNum="6" pc="268436113" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="31" lineNum="10" pc="268436132" symbol="onStart"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="32" lineNum="14" pc="268436137" symbol="onStop"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="33" lineNum="18" pc="268436142" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\MickeyFaceApp.mc" id="33" lineNum="19" pc="268436146" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="35" lineNum="79" pc="268436184" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="35" lineNum="80" pc="268436188" symbol="initialize"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="84" pc="268436211" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="87" pc="268436215" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="88" pc="268436234" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="91" pc="268436253" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="92" pc="268436279" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="94" pc="268436292" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="98" pc="268436302" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="99" pc="268436319" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="101" pc="268436335" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="102" pc="268436346" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="106" pc="268436407" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="107" pc="268436456" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="108" pc="268436506" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="109" pc="268436541" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="110" pc="268436576" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="114" pc="268436628" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="115" pc="268436639" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="116" pc="268436652" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="117" pc="268436665" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="119" pc="268436711" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="120" pc="268436722" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="121" pc="268436735" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="122" pc="268436748" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="125" pc="268436794" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="126" pc="268436805" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="127" pc="268436816" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="128" pc="268436829" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="129" pc="268436842" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="131" pc="268436858" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="132" pc="268436871" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="133" pc="268436884" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="136" pc="268436900" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="137" pc="268436911" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="138" pc="268436924" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="139" pc="268436937" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="143" pc="268436983" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="146" pc="268437026" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="147" pc="268437069" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="150" pc="268437112" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="152" pc="268437170" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="153" pc="268437192" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="36" lineNum="157" pc="268437214" symbol="onLayout"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="37" lineNum="177" pc="268437925" symbol="onShow"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="182" pc="268437930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="186" pc="268437934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="187" pc="268437951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="190" pc="268437998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="191" pc="268438014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="192" pc="268438030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="193" pc="268438046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="194" pc="268438062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="195" pc="268438130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="198" pc="268438198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="199" pc="268438215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="200" pc="268438225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="203" pc="268438281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="204" pc="268438298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="207" pc="268438314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="208" pc="268438351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="210" pc="268438363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="212" pc="268438380" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="216" pc="268438396" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="223" pc="268438424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="224" pc="268438437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="225" pc="268438450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="228" pc="268438450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="229" pc="268438486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="235" pc="268438498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="236" pc="268438506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="237" pc="268438514" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="239" pc="268438517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="240" pc="268438553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="243" pc="268438560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="245" pc="268438578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="248" pc="268438660" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="249" pc="268438692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="260" pc="268438770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="261" pc="268438806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="264" pc="268438870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="265" pc="268438906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="268" pc="268438970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="269" pc="268439006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="276" pc="268439070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="277" pc="268439086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="280" pc="268439086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="281" pc="268439097" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="283" pc="268439113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="284" pc="268439132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="288" pc="268439142" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="289" pc="268439153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="291" pc="268439166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="296" pc="268439176" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="297" pc="268439206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="298" pc="268439261" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="302" pc="268439288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="303" pc="268439324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="306" pc="268439338" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="307" pc="268439374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="313" pc="268439408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="314" pc="268439416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="317" pc="268439473" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="318" pc="268439484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="320" pc="268439497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="324" pc="268439507" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="325" pc="268439537" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="326" pc="268439592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="330" pc="268439619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="331" pc="268439655" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="334" pc="268439669" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="335" pc="268439705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="38" lineNum="339" pc="268439748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="348" pc="268439768" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="350" pc="268439772" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="351" pc="268439797" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="352" pc="268439818" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="353" pc="268439839" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="354" pc="268439858" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="39" lineNum="356" pc="268439877" symbol="rotatePoint"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="364" pc="268439941" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="366" pc="268439945" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="368" pc="268439952" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="370" pc="268439976" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="372" pc="268439983" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="373" pc="268439993" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="374" pc="268440004" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="375" pc="268440014" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="376" pc="268440025" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="377" pc="268440035" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="378" pc="268440046" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="40" lineNum="380" pc="268440056" symbol="drawTiles"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="41" lineNum="389" pc="268440156" symbol="onHide"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="394" pc="268440161" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="397" pc="268440165" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="400" pc="268440181" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="401" pc="268440198" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="402" pc="268440232" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="405" pc="268440279" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="42" lineNum="406" pc="268440290" symbol="callback1"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="43" lineNum="415" pc="268440312" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="43" lineNum="418" pc="268440316" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="43" lineNum="419" pc="268440350" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="424" pc="268440395" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="427" pc="268440399" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="428" pc="268440410" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\kendl\\eclipse-workspace\\TestMickeyFace\\source\\BasicView.mc" id="44" lineNum="431" pc="268440431" symbol="onEnterSleep"/>
+<entry filename="Rez" id="51" lineNum="23" pc="268440448" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="27" pc="268440460" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="28" pc="268440631" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="29" pc="268440664" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="30" pc="268440716" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="33" pc="268440762" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="47" symbol="f_hands_31"/>
+<entry field="true" id="46" symbol="f_hands"/>
+<entry field="true" id="8388937" symbol="day_of_week"/>
+<entry field="true" id="8389793" method="true" symbol="debug"/>
+<entry id="19" object="true" symbol="BasicView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8390485" symbol="bluetooth"/>
+<entry id="49" method="true" symbol="rotatePoint"/>
+<entry field="true" id="41" symbol="xoff"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="39" symbol="g_yoffset"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry field="true" id="38" symbol="g_xoffset"/>
+<entry id="10" object="true" symbol="TestMickeyFaceView"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="45" symbol="set_leading_zero"/>
+<entry id="13" object="true" symbol="MickeyFaceApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="40" symbol="centerpoint"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="37" symbol="canvas_r240"/>
+<entry field="true" id="31" symbol="canvas_w"/>
+<entry field="true" id="30" symbol="canvas_h"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="48" symbol="f_body"/>
+<entry field="true" id="16" symbol="SCREEN_SHAPE_RECT"/>
+<entry field="true" id="17" symbol="hands"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="42" symbol="yoff"/>
+<entry field="true" id="14" symbol="SCREEN_SHAPE_CIRC"/>
+<entry field="true" id="22" symbol="LauncherIcon"/>
+<entry id="50" method="true" symbol="drawTiles"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="18" symbol="body"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="36" symbol="canvas_tall"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="32" symbol="canvas_shape"/>
+<entry id="9" object="true" symbol="BasicApp"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="43" symbol="hand_polygon"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="44" symbol="chapter_offset"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry field="true" id="15" symbol="SCREEN_SHAPE_SEMICIRC"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="21" module="true" symbol="Layouts"/>
+<entry field="true" id="25" symbol="timer_timeout"/>
+<entry field="true" id="28" symbol="month_str"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="33" symbol="canvas_rect"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="27" symbol="current_frame"/>
+<entry field="true" id="29" symbol="vert_layout"/>
+<entry field="true" id="23" symbol="hands_31"/>
+<entry id="20" module="true" symbol="Menus"/>
+<entry field="true" id="35" symbol="canvas_semicirc"/>
+<entry id="11" object="true" symbol="MickeyFaceView"/>
+<entry field="true" id="34" symbol="canvas_circ"/>
+<entry field="true" id="26" symbol="timer_steps"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="12" object="true" symbol="TestMickeyFaceApp"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435509" name="state" stackId="1" startPc="268435504"/>
+<entry endPc="268435514" name="state" stackId="1" startPc="268435509"/>
+<entry endPc="268435621" name="dc" stackId="1" startPc="268435579"/>
+<entry endPc="268435779" name="view" stackId="4" startPc="268435630"/>
+<entry endPc="268435779" name="timeString" stackId="3" startPc="268435630"/>
+<entry endPc="268435779" name="clockTime" stackId="2" startPc="268435630"/>
+<entry endPc="268435780" name="dc" stackId="1" startPc="268435626"/>
+<entry endPc="268435860" name="dc" stackId="1" startPc="268435818"/>
+<entry endPc="268436018" name="view" stackId="4" startPc="268435869"/>
+<entry endPc="268436018" name="timeString" stackId="3" startPc="268435869"/>
+<entry endPc="268436018" name="clockTime" stackId="2" startPc="268435869"/>
+<entry endPc="268436019" name="dc" stackId="1" startPc="268435865"/>
+<entry endPc="268436062" name="state" stackId="1" startPc="268436057"/>
+<entry endPc="268436067" name="state" stackId="1" startPc="268436062"/>
+<entry endPc="268436137" name="state" stackId="1" startPc="268436132"/>
+<entry endPc="268436142" name="state" stackId="1" startPc="268436137"/>
+<entry endPc="268437924" name="deviceSettings" stackId="2" startPc="268436215"/>
+<entry endPc="268437925" name="dc" stackId="1" startPc="268436211"/>
+<entry endPc="268438770" name="u" stackId="14" startPc="268438578"/>
+<entry endPc="268439288" name="u" stackId="17" startPc="268439206"/>
+<entry endPc="268439619" name="u" stackId="19" startPc="268439537"/>
+<entry endPc="268439767" name="circle_char" stackId="13" startPc="268437934"/>
+<entry endPc="268439767" name="dw" stackId="7" startPc="268437934"/>
+<entry endPc="268439767" name="col" stackId="12" startPc="268437934"/>
+<entry endPc="268439767" name="font" stackId="9" startPc="268437934"/>
+<entry endPc="268439767" name="date" stackId="3" startPc="268437934"/>
+<entry endPc="268439767" name="deviceSettings" stackId="6" startPc="268437934"/>
+<entry endPc="268439767" name="clockTime" stackId="2" startPc="268437934"/>
+<entry endPc="268439767" name="current_hand" stackId="16" startPc="268437934"/>
+<entry endPc="268439767" name="stats" stackId="4" startPc="268437934"/>
+<entry endPc="268439767" name="temp_point" stackId="11" startPc="268437934"/>
+<entry endPc="268439767" name="minute_is" stackId="15" startPc="268437934"/>
+<entry endPc="268439767" name="hand_polygon_rot" stackId="10" startPc="268437934"/>
+<entry endPc="268439767" name="batteryRaw" stackId="5" startPc="268437934"/>
+<entry endPc="268439767" name="hour_is" stackId="18" startPc="268437934"/>
+<entry endPc="268439767" name="dh" stackId="8" startPc="268437934"/>
+<entry endPc="268439768" name="dc" stackId="1" startPc="268437930"/>
+<entry endPc="268439940" name="dY" stackId="8" startPc="268439772"/>
+<entry endPc="268439940" name="dX" stackId="7" startPc="268439772"/>
+<entry endPc="268439940" name="sin" stackId="6" startPc="268439772"/>
+<entry endPc="268439940" name="cos" stackId="5" startPc="268439772"/>
+<entry endPc="268439940" name="radians" stackId="4" startPc="268439772"/>
+<entry endPc="268439941" name="point" stackId="2" startPc="268439768"/>
+<entry endPc="268439941" name="origin" stackId="1" startPc="268439768"/>
+<entry endPc="268439941" name="angle" stackId="3" startPc="268439768"/>
+<entry endPc="268440142" name="xpos" stackId="11" startPc="268439976"/>
+<entry endPc="268440142" name="char" stackId="12" startPc="268439976"/>
+<entry endPc="268440142" name="packed_value" stackId="8" startPc="268439976"/>
+<entry endPc="268440142" name="pad" stackId="9" startPc="268439976"/>
+<entry endPc="268440142" name="ypos" stackId="10" startPc="268439976"/>
+<entry endPc="268440155" name="i" stackId="7" startPc="268439976"/>
+<entry endPc="268440155" name="offset" stackId="6" startPc="268439945"/>
+<entry endPc="268440156" name="xoff" stackId="4" startPc="268439941"/>
+<entry endPc="268440156" name="dc" stackId="3" startPc="268439941"/>
+<entry endPc="268440156" name="font" stackId="2" startPc="268439941"/>
+<entry endPc="268440156" name="packed_array" stackId="1" startPc="268439941"/>
+<entry endPc="268440156" name="yoff" stackId="5" startPc="268439941"/>
+<entry endPc="268440779" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268440460"/>
+<entry endPc="268440779" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268440460"/>
+<entry endPc="268440780" name="dc" stackId="1" startPc="268440448"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BasicApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="BasicApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BasicApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BasicApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BasicApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TestMickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="TestMickeyFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="TestMickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="TestMickeyFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TestMickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="TestMickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="TestMickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MickeyFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MickeyFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="MickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="MickeyFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TestMickeyFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="TestMickeyFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="TestMickeyFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="TestMickeyFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MickeyFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MickeyFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MickeyFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MickeyFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BasicView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BasicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BasicView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="rotatePoint" parent="BasicView">
+<param id="origin"/>
+<param id="point"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTiles" parent="BasicView">
+<param id="packed_array"/>
+<param id="font"/>
+<param id="dc"/>
+<param id="xoff"/>
+<param id="yoff"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="callback1" parent="BasicView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="BasicView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="BasicView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="270" parentId="globals" symbolId="MickeyFaceView" type="class"/>
+<dataEntry offset="365" parentId="globals" symbolId="MickeyFaceApp" type="class"/>
+<dataEntry offset="436" parentId="globals" symbolId="BasicApp" type="class"/>
+<dataEntry offset="515" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="594" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="633" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="664" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="719" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="750" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="789" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="828" parentId="globals" symbolId="BasicView" type="class"/>
+<dataEntry offset="1211" parentId="globals" symbolId="TestMickeyFaceApp" type="class"/>
+<dataEntry offset="1282" parentId="globals" symbolId="TestMickeyFaceView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
